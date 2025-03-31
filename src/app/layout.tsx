@@ -5,9 +5,9 @@ import "./globals.css";
 
 import { Geist, Geist_Mono } from "next/font/google";
 
-import Footer from "./components/Footer/Footer";
+import Footer from "./components/Footer";
 import type { Metadata } from "next";
-import Navbar from "./components/Navbar/Navbar";
+import Navbar from "./components/Navbar";
 
 export const metadata: Metadata = {
   title: "ECommerce",
